@@ -6,6 +6,9 @@ java安全学习笔记：按照 [JavaSecurityLearning](https://github.com/10cks/
 [JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)
 
 ---
+
+[2024-01-10] 登录功能的实现
+
 [2024-01-09] 首页实现、国际化
 
 [2024-01-08] spring-boot 扩展 MVC
