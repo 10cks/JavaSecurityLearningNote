@@ -1,6 +1,10 @@
 # JSLN: JavaSecurityLearningNote
 java安全学习笔记：按照 [JavaSecurityLearning](https://github.com/10cks/JavaSecurityLearning) 进行学习，会把自己的学习记录在这里进行一个周期性打卡。
 
+其他项目参考：
+
+[JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)
+
 ---
 [2024-01-09] 首页实现、国际化
 
