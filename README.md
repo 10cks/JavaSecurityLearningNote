@@ -5,6 +5,10 @@ java安全学习笔记：按照 [JavaSecurityLearning](https://github.com/10cks/
 
 [JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)
 
+[mini-spring](https://github.com/DerekYRC/mini-spring?tab=readme-ov-file)
+
+[HackJava](https://github.com/HackJava/HackJava?tab=readme-ov-file)
+
 ---
 
 [2024-01-10] 登录功能的实现
