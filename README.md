@@ -10,6 +10,8 @@ java安全学习笔记：按照 [JavaSecurityLearning](https://github.com/10cks/
 [HackJava](https://github.com/HackJava/HackJava?tab=readme-ov-file)
 
 ---
+[2024-01-15] vue 从基础到深入差不多过了一遍，vue3的路由没有学
+
 [2024-01-14] vue 从基础到深入，学到了插槽
 
 [2024-01-10] 登录功能的实现
