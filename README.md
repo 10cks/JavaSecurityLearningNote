@@ -9,6 +9,8 @@ java安全学习笔记：按照 [JavaSecurityLearning](https://github.com/10cks/
 
 [HackJava](https://github.com/HackJava/HackJava?tab=readme-ov-file)
 
+[javasec_study](https://github.com/proudwind/javasec_study)
+
 ---
 [2024-01-15] vue 从基础到深入差不多过了一遍，vue3的路由没有学
 
